@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dapa</h1>
 
-<!--
-**papaaaa-dap/papaaaa-dap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mahasiswa+IIP;Ngoding+kadang+serius+kadang+gabut;Building+random+projects;Future+Developer+(amin)" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📚 Information Science Student | 💻 Aspiring Developer</h3>
+
+---
+
+## 🧠 About Me
+- 🎓 Mahasiswa Ilmu Informasi & Perpustakaan
+- 💻 Lagi belajar ngoding biar ga cuma teori
+- ⚡ Sering bikin project random
+- ☕ Debugging adalah jalan hidup
+
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAMEKAMU&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/USERNAMEKAMU/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
