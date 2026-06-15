@@ -39,14 +39,14 @@
 
 ## Contribution Snake
 <p align="center">
-  <img src="https://github.com/USERNAMEKAMU/USERNAMEKAMU/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/papaaaa-dap/papaaaa-dap/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ##  Contact
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:profpaparazi@gmail.com">
     <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
